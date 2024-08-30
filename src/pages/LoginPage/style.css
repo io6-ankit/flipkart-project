@@ -1,0 +1,42 @@
+.login-container .login-paper {
+  min-height: 500px;
+  width: 50%;
+  margin: 10% auto;
+}
+
+.fk-left-sec {
+  margin: 0;
+  padding: 0 !important;
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+
+.fk-left-sec div {
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+
+.fk-right-sec {
+  padding-right: 66px;
+}
+
+.btn-container {
+  width: 90%;
+
+  margin: 30px 0 0 51px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.chip-btn {
+  width: 100px;
+}
+
+.fk-right-sec {
+  margin-top: 20%;
+  display: block;
+}
+/* .bottom-note {
+  margin: 29px 0 0 4px;
+  display: block;
+} */
